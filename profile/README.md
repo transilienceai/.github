@@ -4,12 +4,11 @@
 
 # Transilience AI
 
-**Managed Cloud Security & Compliance — Operated by AI Agents**
+**We build AI-native security tools — [open source](https://github.com/transilienceai/communitytools) and as a [managed platform](https://www.transilience.ai)**
 
 [![Website](https://img.shields.io/badge/Website-transilience.ai-6366f1?style=flat-square&logo=globe&logoColor=white)](https://www.transilience.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-transilienceai-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/transilienceai)
 [![Email](https://img.shields.io/badge/Email-hello@transilience.ai-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@transilience.ai)
-[![Book Demo](https://img.shields.io/badge/Book-Demo-22c55e?style=flat-square)](https://www.transilience.ai/contact-us)
 
 </div>
 
@@ -17,11 +16,9 @@
 
 ## 🛡️ Who We Are
 
-**Transilience AI** delivers **enterprise-grade cloud security and compliance** at a fraction of traditional cost, powered by autonomous AI agents. We replace fragmented tooling and manual workflows with a unified agent platform that continuously monitors, investigates, remediates, and audits cloud environments — 24/7.
+**Transilience AI** builds AI-driven security tooling — from open-source pentesting skills to a managed cloud security platform. We believe security should be automated, accessible, and open where possible.
 
-> *"Enterprise Security for Your Enterprise Customers Without Enterprise Cost."*
-
-Our AI agents autonomously complete use cases across:
+Our platform uses autonomous AI agents across:
 
 | Agent Domain | What It Does |
 |---|---|
@@ -52,7 +49,7 @@ One platform across all major security and compliance frameworks:
 
 ---
 
-## 🚀 Open Source Repositories
+## 🚀 Open Source
 
 ### 🔐 [communitytools](https://github.com/transilienceai/communitytools)
 
@@ -60,17 +57,15 @@ One platform across all major security and compliance frameworks:
 [![Forks](https://img.shields.io/github/forks/transilienceai/communitytools?style=flat-square&color=6366f1)](https://github.com/transilienceai/communitytools/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](https://github.com/transilienceai/communitytools/blob/main/LICENSE)
 
-Open-source **Claude Code skills, agents, and slash commands** for AI-powered penetration testing, bug bounty hunting, and security research. 7 security skills, 35+ specialized agents running in parallel, covering 100% of OWASP Top 10 and 46+ attack types.
-
-> 🏆 The autonomous pentesting agent from this repo holds **Pro Hacker rank on Hack The Box** — **top 2% globally**.
+AI-powered penetration testing for Claude Code — **23 skills, 8 agents**, and **100% (104/104) on a published CTF benchmark** without model fine-tuning. Covers the full OWASP Top 10, LLM Top 10, and 53+ attack types.
 
 **Highlights:**
-- 🤖 35+ specialized agents running autonomous security workflows in parallel
-- 🎯 7 slash commands covering pentesting, bug bounty, CVE testing, and domain assessment
-- 📊 100% OWASP Top 10 coverage with CVSS 3.1 scoring on all findings
-- 📁 Structured output with executive summaries, evidence, and platform-ready reports
+- 🤖 8 agents orchestrating autonomous security testing workflows
+- 🎯 23 skills covering injection, client-side, server-side, API, cloud, and more
+- 📊 100% OWASP coverage with CVSS 3.1 scoring on all findings
+- 📄 [Research paper: Practice Makes Perfect](https://github.com/transilienceai/communitytools/blob/main/papers/practice-makes-perfect.pdf) — how we built it
 
-**[Explore the full repo &rarr;](https://github.com/transilienceai/communitytools)**
+**[Explore the repo &rarr;](https://github.com/transilienceai/communitytools)** · **[Learn more about our work &rarr;](https://www.transilience.ai)**
 
 ---
 
@@ -107,32 +102,16 @@ An **AI-powered content-to-video pipeline** that turns any content into professi
 
 ---
 
-## 🌐 Platform & Products
+## 🌐 See What We're Building
 
-| Product | Link |
-|---|---|
-| Security OS | [app.transilience.cloud](https://app.transilience.cloud/) |
-| Demoforge (AI Video Generator) | [demoforge.transilience.cloud](https://demoforge.transilience.cloud/) |
+We apply the same AI-first approach from our open-source tools to managed cloud security and compliance. If you're curious:
 
----
-
-## 💬 What Customers Say
-
-> *"Thanks to Transilience, we got SOC2 certified without hiring any security staff. Their AI agents monitored, collected evidence, and proactively alerted us."*
-> — **Vincent Atallah**, President, Aucctus
-
-> *"The GRC automation delivered by Transilience allows my team to do 10x more work than we used to previously."*
-> — **Udit Pathak**, VP GRC, Network Intelligence
-
-> *"Using Transilience was a game-changer in our journey toward achieving PCI compliance."*
-> — **Jeff Go**, World Xchange
+[transilience.ai](https://www.transilience.ai) · [Blog](https://www.transilience.ai/blog) · [LinkedIn](https://www.linkedin.com/company/transilienceai)
 
 ---
 
 <div align="center">
 
-**Built with ❤️ by the Transilience AI team**
-
-[Website](https://www.transilience.ai) &nbsp;·&nbsp; [Blog](https://www.transilience.ai/blog) &nbsp;·&nbsp; [Careers](https://www.transilience.ai/careers) &nbsp;·&nbsp; [Contact](https://www.transilience.ai/contact-us)
+**Built with care by the Transilience AI team**
 
 </div>
